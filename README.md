@@ -6,7 +6,7 @@
 
 ### Project Preview:
 
-![coming soon!](#)
+![time-stamp microservice](https://github.com/user-attachments/assets/7db61e4e-f40e-46f2-b353-7873b93da480)
 
 ### User Stories/Tests to pass:
 
