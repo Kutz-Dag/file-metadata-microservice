@@ -2,7 +2,7 @@
 
 ### Description
 
-// coming soon
+You can submit a form that includes a file upload. You will receive the file name and size in bytes within the JSON response when you submit something. The results will be similar to the image below:
 
 ### Project Preview:
 
